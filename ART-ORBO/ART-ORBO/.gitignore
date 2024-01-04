@@ -1,0 +1,5 @@
+target/
+
+outputs/
+jacoco.exec
+coveragereport/

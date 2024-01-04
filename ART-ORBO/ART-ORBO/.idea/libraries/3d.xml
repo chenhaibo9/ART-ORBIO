@@ -1,0 +1,28 @@
+<component name="libraryTable">
+	<library name="3d">
+		<CLASSES>
+			<root url="jar://$PROJECT_DIR$/libs/gral-core-0.11.jar!/" />
+			<root url="jar://$PROJECT_DIR$/libs/jacocoagent.jar!/" />
+			<root url="jar://$PROJECT_DIR$/libs/jheatchart-0.6.jar!/" />
+			<root url="jar://$PROJECT_DIR$/libs/jmathplot.jar!/" />
+			<root url="jar://$PROJECT_DIR$/libs/junit-4.12.jar!/" />
+			<root url="jar://$PROJECT_DIR$/libs/log4j-api-2.5.jar!/" />
+			<root url="jar://$PROJECT_DIR$/libs/log4j-core-2.5.jar!/" />
+			<root
+				url="jar://$PROJECT_DIR$/libs/org.jacoco.core-0.7.6.201602180812.jar!/" />
+			<root
+				url="jar://$PROJECT_DIR$/libs/org.jacoco.report-0.7.6.201602180812.jar!/" />
+			<root url="jar://$PROJECT_DIR$/libs/poi-3.16.jar!/" />
+			<root url="file://$PROJECT_DIR$/libs/3d" />
+		</CLASSES>
+		<JAVADOC />
+		<SOURCES>
+			<root url="jar://$PROJECT_DIR$/libs/log4j-api-2.5-sources.jar!/" />
+			<root url="file://$PROJECT_DIR$/libs/3d" />
+		</SOURCES>
+		<jarDirectory url="file://$PROJECT_DIR$/libs/3d"
+			recursive="false" />
+		<jarDirectory url="file://$PROJECT_DIR$/libs/3d"
+			recursive="false" type="SOURCES" />
+	</library>
+</component>

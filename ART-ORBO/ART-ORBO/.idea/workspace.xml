@@ -1,0 +1,2377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+	<component name="ChangeListManager">
+		<list default="true" id="10c01916-f37b-4faf-855e-3c29c330392c"
+			name="Default" comment="">
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_9partition/serenaz.pdf" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_9partition/CVT_FSCS.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_9partition/Edge.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_9partition/Event.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_9partition/Parabola.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_9partition/Point.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_9partition/Voronoi.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_b/ART_B2_ND.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_orb/ORB_FSCS_ND.java" />
+			<change type="NEW" beforePath=""
+				afterPath="$PROJECT_DIR$/src/test/simulations/rrt/imp/RRT2_ND.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml"
+				afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml"
+				afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/ART.iml"
+				afterPath="$PROJECT_DIR$/ART.iml" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml"
+				afterPath="$PROJECT_DIR$/pom.xml" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/a_main/MainMethod.java"
+				afterPath="$PROJECT_DIR$/src/a_main/MainMethod.java" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/a_main/MainMethodEm.java"
+				afterPath="$PROJECT_DIR$/src/a_main/MainMethodEm.java" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/a_main/MainMethodTime.java"
+				afterPath="$PROJECT_DIR$/src/a_main/MainMethodTime.java" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/ND/NPoint.java"
+				afterPath="$PROJECT_DIR$/src/datastructure/ND/NPoint.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/src/datastructure/failurepattern/impl/PointPattern.java"
+				afterPath="$PROJECT_DIR$/src/datastructure/failurepattern/impl/PointPattern.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/src/datastructure/failurepattern/impl/StripPattern.java"
+				afterPath="$PROJECT_DIR$/src/datastructure/failurepattern/impl/StripPattern.java" />
+			<change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/ART.java"
+				afterPath="$PROJECT_DIR$/src/test/ART.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/src/test/simulations/art_b/ART_B_ND.java"
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_b/ART_B_ND.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/src/test/simulations/art_dc/RRT_DC.java"
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_dc/RRT_DC.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/src/test/simulations/art_orb/ORB_RRT_ND.java"
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_orb/ORB_RRT_ND.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/src/test/simulations/art_tpp/ART_TPP.java"
+				afterPath="$PROJECT_DIR$/src/test/simulations/art_tpp/ART_TPP.java" />
+			<change type="MODIFICATION"
+				beforePath="$PROJECT_DIR$/src/test/simulations/fscs/FSCS_ND.java"
+				afterPath="$PROJECT_DIR$/src/test/simulations/fscs/FSCS_ND.java" />
+		</list>
+		<ignored path="$PROJECT_DIR$/target/" />
+		<option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+		<option name="TRACKING_ENABLED" value="true" />
+		<option name="SHOW_DIALOG" value="false" />
+		<option name="HIGHLIGHT_CONFLICTS" value="true" />
+		<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+		<option name="LAST_RESOLUTION" value="IGNORE" />
+	</component>
+	<component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+	<component name="FavoritesManager">
+		<favorites_list name="ART" />
+	</component>
+	<component name="FileEditorManager">
+		<leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+			<file leaf-file-name="ORB_RRT_ND.java" pinned="false"
+				current-in-tab="false">
+				<entry
+					file="file://$PROJECT_DIR$/src/test/simulations/art_orb/ORB_RRT_ND.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="234">
+							<caret line="22" column="39" lean-forward="false"
+								selection-start-line="22" selection-start-column="39"
+								selection-end-line="22" selection-end-column="39" />
+							<folding />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file leaf-file-name="ORB_FSCS_ND.java" pinned="false"
+				current-in-tab="true">
+				<entry
+					file="file://$PROJECT_DIR$/src/test/simulations/art_orb/ORB_FSCS_ND.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="216">
+							<caret line="37" column="0" lean-forward="true"
+								selection-start-line="37" selection-start-column="0"
+								selection-end-line="37" selection-end-column="0" />
+							<folding />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file leaf-file-name="RandomCreator.java" pinned="false"
+				current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/util/RandomCreator.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="522">
+							<caret line="33" column="18" lean-forward="false"
+								selection-start-line="33" selection-start-column="18"
+								selection-end-line="33" selection-end-column="18" />
+							<folding />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file leaf-file-name="FSCS_ND.java" pinned="false"
+				current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/test/simulations/fscs/FSCS_ND.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="882">
+							<caret line="54" column="30" lean-forward="false"
+								selection-start-line="36" selection-start-column="12"
+								selection-end-line="54" selection-end-column="30" />
+							<folding />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file leaf-file-name="ComplexRegion.java" pinned="false"
+				current-in-tab="false">
+				<entry
+					file="file://$PROJECT_DIR$/src/test/simulations/art_orb/ComplexRegion.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="108">
+							<caret line="7" column="31" lean-forward="false"
+								selection-start-line="7" selection-start-column="18"
+								selection-end-line="7" selection-end-column="31" />
+							<folding />
+						</state>
+					</provider>
+				</entry>
+			</file>
+		</leaf>
+	</component>
+	<component name="FileTemplateManagerImpl">
+		<option name="RECENT_TEMPLATES">
+			<list>
+				<option value="Class" />
+			</list>
+		</option>
+	</component>
+	<component name="Git.Settings">
+		<option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+	</component>
+	<component name="GradleLocalSettings">
+		<option name="externalProjectsViewState">
+			<projects_view />
+		</option>
+	</component>
+	<component name="IdeDocumentHistory">
+		<option name="CHANGED_PATHS">
+			<list>
+				<option value="$PROJECT_DIR$/src/test/ART.java" />
+				<option value="$PROJECT_DIR$/src/test/simulations/fscs/FSCS_ND.java" />
+				<option value="$PROJECT_DIR$/src/datastructure/ND/NPoint.java" />
+				<option value="$PROJECT_DIR$/src/test/simulations/art_tpp/ART_TPP.java" />
+				<option value="$PROJECT_DIR$/src/test/simulations/art_dc/RRT_DC.java" />
+				<option value="$PROJECT_DIR$/src/a_main/MainMethodEm.java" />
+				<option value="$PROJECT_DIR$/src/a_main/MainMethodTime.java" />
+				<option
+					value="$PROJECT_DIR$/src/datastructure/failurepattern/impl/PointPattern.java" />
+				<option
+					value="$PROJECT_DIR$/src/datastructure/failurepattern/impl/StripPattern.java" />
+				<option
+					value="$PROJECT_DIR$/src/test/simulations/art_rp/ART_RP_revise_ND.java" />
+				<option value="$PROJECT_DIR$/src/a_main/MainMethod.java" />
+				<option
+					value="$PROJECT_DIR$/src/test/simulations/art_9partition/CVT_FSCS.java" />
+				<option
+					value="$PROJECT_DIR$/src/test/simulations/art_9partition/Edge.java" />
+				<option
+					value="$PROJECT_DIR$/src/test/simulations/art_9partition/Voronoi.java" />
+				<option value="$PROJECT_DIR$/src/test/simulations/art_b/ART_B3_ND.java" />
+				<option value="$PROJECT_DIR$/src/test/simulations/art_b/ART_B_ND.java" />
+				<option value="$PROJECT_DIR$/src/test/simulations/art_b/ART_B2_ND.java" />
+				<option value="$PROJECT_DIR$/src/test/simulations/rrt/imp/RRT2_ND.java" />
+				<option value="$PROJECT_DIR$/pom.xml" />
+				<option value="$PROJECT_DIR$/src/test/simulations/art_orb/ORB_RRT_ND.java" />
+				<option
+					value="$PROJECT_DIR$/src/test/simulations/art_orb/ORB_FSCS_ND.java" />
+			</list>
+		</option>
+	</component>
+	<component name="JsBuildToolGruntFileManager" detection-done="true"
+		sorting="DEFINITION_ORDER" />
+	<component name="JsBuildToolPackageJson" detection-done="true"
+		sorting="DEFINITION_ORDER" />
+	<component name="JsGulpfileManager">
+		<detection-done>true</detection-done>
+		<sorting>DEFINITION_ORDER</sorting>
+	</component>
+	<component name="ProjectFrameBounds">
+		<option name="x" value="-8" />
+		<option name="y" value="-8" />
+		<option name="width" value="1382" />
+		<option name="height" value="784" />
+	</component>
+	<component name="ProjectLevelVcsManager"
+		settingsEditedManually="true" />
+	<component name="ProjectView">
+		<navigator currentView="ProjectPane" proportions="" version="1">
+			<flattenPackages />
+			<showMembers />
+			<showModules />
+			<showLibraryContents />
+			<hideEmptyPackages />
+			<abbreviatePackageNames />
+			<autoscrollToSource />
+			<autoscrollFromSource />
+			<sortByType />
+			<manualOrder />
+			<foldersAlwaysOnTop value="true" />
+		</navigator>
+		<panes>
+			<pane id="Scratches" />
+			<pane id="ProjectPane">
+				<subPane>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="External Libraries" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="Test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="RealityFailureRate" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="util" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="tested" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="rt" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="rrttp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="rrttp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="hilbert" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="rrt" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="rrt" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="imp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="RRT_OD_UPDATE.java" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="rrt" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="imp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="myart" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="_ND" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="myart" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="myart" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="_1D" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="fscs" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="art_tpp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="art_tp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="_ND" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="art_tp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="art_rp" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="art_orb" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="test" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="simulations" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="art_b" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="datastructure" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="src" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="a_main" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="Resource" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+						</PATH_ELEMENT>
+					</PATH>
+				</subPane>
+			</pane>
+			<pane id="Scope" />
+			<pane id="PackagesPane">
+				<subPane>
+					<PATH>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+						</PATH_ELEMENT>
+						<PATH_ELEMENT>
+							<option name="myItemId" value="ART" />
+							<option name="myItemType"
+								value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+						</PATH_ELEMENT>
+					</PATH>
+				</subPane>
+			</pane>
+		</panes>
+	</component>
+	<component name="PropertiesComponent">
+		<property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+		<property name="WebServerToolWindowFactoryState" value="false" />
+		<property name="aspect.path.notification.shown" value="true" />
+		<property name="last_opened_file_path" value="$PROJECT_DIR$/../SZFC2" />
+		<property name="project.structure.last.edited" value="Libraries" />
+		<property name="project.structure.proportion" value="0.0" />
+		<property name="project.structure.side.proportion" value="0.0" />
+		<property name="SearchEverywhereHistoryKey"
+			value="midPoint&#9;PSI&#9;JAVA://test.simulations.art_9partition._4partition#midPoint" />
+	</component>
+	<component name="RecentsManager">
+		<key name="CopyClassDialog.RECENTS_KEY">
+			<recent name="test.simulations.art_orb" />
+			<recent name="test.simulations.rrt.imp" />
+			<recent name="test.simulations.art_b" />
+			<recent name="test.simulations.art_rp" />
+		</key>
+		<key name="CopyFile.RECENT_KEYS">
+			<recent
+				name="C:\Users\xijiaxiang\IdeaProjects\ART\src\test\simulations\art_9partition" />
+		</key>
+	</component>
+	<component name="RunDashboard">
+		<option name="ruleStates">
+			<list>
+				<RuleState>
+					<option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+				</RuleState>
+				<RuleState>
+					<option name="name" value="StatusDashboardGroupingRule" />
+				</RuleState>
+			</list>
+		</option>
+	</component>
+	<component name="RunManager" selected="Application.ORB_FSCS_ND">
+		<configuration default="false" name="ART_B3_ND" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea">
+				<pattern>
+					<option name="PATTERN" value="test.simulations.art_b.*" />
+					<option name="ENABLED" value="true" />
+				</pattern>
+			</extension>
+			<option name="MAIN_CLASS_NAME" value="test.simulations.art_b.ART_B3_ND" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="ART" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="false" name="ART_B_ND" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea">
+				<pattern>
+					<option name="PATTERN" value="test.simulations.art_b.*" />
+					<option name="ENABLED" value="true" />
+				</pattern>
+			</extension>
+			<option name="MAIN_CLASS_NAME" value="test.simulations.art_b.ART_B_ND" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="ART" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="false" name="MyART_OD" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea">
+				<pattern>
+					<option name="PATTERN" value="test.simulations.myart._1D.*" />
+					<option name="ENABLED" value="true" />
+				</pattern>
+			</extension>
+			<option name="MAIN_CLASS_NAME" value="test.simulations.myart._1D.MyART_OD" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="ART" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="false" name="ORB_FSCS_ND" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea">
+				<pattern>
+					<option name="PATTERN" value="test.simulations.art_orb.*" />
+					<option name="ENABLED" value="true" />
+				</pattern>
+			</extension>
+			<option name="MAIN_CLASS_NAME" value="test.simulations.art_orb.ORB_FSCS_ND" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="ART" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="false" name="ORB_RRT_ND" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea">
+				<pattern>
+					<option name="PATTERN" value="test.simulations.art_orb.*" />
+					<option name="ENABLED" value="true" />
+				</pattern>
+			</extension>
+			<option name="MAIN_CLASS_NAME" value="test.simulations.art_orb.ORB_RRT_ND" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="ART" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true"
+			type="#org.jetbrains.idea.devkit.run.PluginConfigurationType"
+			factoryName="Plugin">
+			<module name="" />
+			<option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+			<option name="PROGRAM_PARAMETERS" />
+			<predefined_log_file id="idea.log" enabled="true" />
+			<method />
+		</configuration>
+		<configuration default="true" type="AndroidRunConfigurationType"
+			factoryName="Android App">
+			<module name="" />
+			<option name="DEPLOY" value="true" />
+			<option name="ARTIFACT_NAME" value="" />
+			<option name="PM_INSTALL_OPTIONS" value="" />
+			<option name="ACTIVITY_EXTRA_FLAGS" value="" />
+			<option name="MODE" value="default_activity" />
+			<option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+			<option name="PREFERRED_AVD" value="" />
+			<option name="CLEAR_LOGCAT" value="false" />
+			<option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+			<option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+			<option name="FORCE_STOP_RUNNING_APP" value="true" />
+			<option name="DEBUGGER_TYPE" value="Java" />
+			<option name="USE_LAST_SELECTED_DEVICE" value="false" />
+			<option name="PREFERRED_AVD" value="" />
+			<Java />
+			<Profilers>
+				<option name="ENABLE_ADVANCED_PROFILING" value="true" />
+				<option name="GAPID_ENABLED" value="false" />
+				<option name="GAPID_DISABLE_PCS" value="false" />
+				<option name="SUPPORT_LIB_ENABLED" value="true" />
+				<option name="INSTRUMENTATION_ENABLED" value="true" />
+			</Profilers>
+			<option name="DEEP_LINK" value="" />
+			<option name="ACTIVITY_CLASS" value="" />
+			<method />
+		</configuration>
+		<configuration default="true" type="AndroidTestRunConfigurationType"
+			factoryName="Android Tests">
+			<module name="" />
+			<option name="TESTING_TYPE" value="0" />
+			<option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+			<option name="METHOD_NAME" value="" />
+			<option name="CLASS_NAME" value="" />
+			<option name="PACKAGE_NAME" value="" />
+			<option name="EXTRA_OPTIONS" value="" />
+			<option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+			<option name="PREFERRED_AVD" value="" />
+			<option name="CLEAR_LOGCAT" value="false" />
+			<option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+			<option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+			<option name="FORCE_STOP_RUNNING_APP" value="true" />
+			<option name="DEBUGGER_TYPE" value="Java" />
+			<option name="USE_LAST_SELECTED_DEVICE" value="false" />
+			<option name="PREFERRED_AVD" value="" />
+			<Java />
+			<Profilers>
+				<option name="ENABLE_ADVANCED_PROFILING" value="true" />
+				<option name="GAPID_ENABLED" value="false" />
+				<option name="GAPID_DISABLE_PCS" value="false" />
+				<option name="SUPPORT_LIB_ENABLED" value="true" />
+				<option name="INSTRUMENTATION_ENABLED" value="true" />
+			</Profilers>
+			<method />
+		</configuration>
+		<configuration default="true" type="Applet" factoryName="Applet">
+			<option name="HTML_USED" value="false" />
+			<option name="WIDTH" value="400" />
+			<option name="HEIGHT" value="300" />
+			<option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+			<module />
+			<method />
+		</configuration>
+		<configuration default="true" type="Application"
+			factoryName="Application">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="ArquillianJUnit"
+			factoryName="" nameIsGenerated="true">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<module name="" />
+			<option name="arquillianRunConfiguration">
+				<value>
+					<option name="containerStateName" value="" />
+				</value>
+			</option>
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="PACKAGE_NAME" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="METHOD_NAME" />
+			<option name="TEST_OBJECT" value="class" />
+			<option name="VM_PARAMETERS" />
+			<option name="PARAMETERS" />
+			<option name="WORKING_DIRECTORY" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<option name="TEST_SEARCH_SCOPE">
+				<value defaultName="singleModule" />
+			</option>
+			<envs />
+			<patterns />
+			<method />
+		</configuration>
+		<configuration default="true" type="ArquillianTestNG"
+			factoryName="">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<module name="" />
+			<option name="arquillianRunConfiguration">
+				<value>
+					<option name="containerStateName" value="" />
+				</value>
+			</option>
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="SUITE_NAME" />
+			<option name="PACKAGE_NAME" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="METHOD_NAME" />
+			<option name="GROUP_NAME" />
+			<option name="TEST_OBJECT" value="CLASS" />
+			<option name="VM_PARAMETERS" />
+			<option name="PARAMETERS" />
+			<option name="WORKING_DIRECTORY" />
+			<option name="OUTPUT_DIRECTORY" />
+			<option name="ANNOTATION_TYPE" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<option name="TEST_SEARCH_SCOPE">
+				<value defaultName="singleModule" />
+			</option>
+			<option name="USE_DEFAULT_REPORTERS" value="false" />
+			<option name="PROPERTIES_FILE" />
+			<envs />
+			<properties />
+			<listeners />
+			<method />
+		</configuration>
+		<configuration default="true" type="Cold Fusion runner description"
+			factoryName="Cold Fusion" custom_browser="" web_path="">
+			<method />
+		</configuration>
+		<configuration default="true"
+			type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<option name="myFilePath" />
+			<option name="GLUE" />
+			<option name="myNameFilter" />
+			<option name="myGeneratedName" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="FlashRunConfigurationType"
+			factoryName="Flash App">
+			<option name="BCName" value="" />
+			<option name="IOSSimulatorSdkPath" value="" />
+			<option name="adlOptions" value="" />
+			<option name="airProgramParameters" value="" />
+			<option name="appDescriptorForEmulator" value="Android" />
+			<option name="debugTransport" value="USB" />
+			<option name="debuggerSdkRaw" value="BC SDK" />
+			<option name="emulator" value="NexusOne" />
+			<option name="emulatorAdlOptions" value="" />
+			<option name="fastPackaging" value="true" />
+			<option name="fullScreenHeight" value="0" />
+			<option name="fullScreenWidth" value="0" />
+			<option name="launchUrl" value="false" />
+			<option name="launcherParameters">
+				<LauncherParameters>
+					<option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+					<option name="launcherType" value="OSDefault" />
+					<option name="newPlayerInstance" value="false" />
+					<option name="playerPath" value="FlashPlayerDebugger.exe" />
+				</LauncherParameters>
+			</option>
+			<option name="mobileRunTarget" value="Emulator" />
+			<option name="moduleName" value="" />
+			<option name="overriddenMainClass" value="" />
+			<option name="overriddenOutputFileName" value="" />
+			<option name="overrideMainClass" value="false" />
+			<option name="runTrusted" value="true" />
+			<option name="screenDpi" value="0" />
+			<option name="screenHeight" value="0" />
+			<option name="screenWidth" value="0" />
+			<option name="url" value="http://" />
+			<option name="usbDebugPort" value="7936" />
+			<method />
+		</configuration>
+		<configuration default="true" type="FlexUnitRunConfigurationType"
+			factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name=""
+			emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+			<option name="BCName" value="" />
+			<option name="launcherParameters">
+				<LauncherParameters>
+					<option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+					<option name="launcherType" value="OSDefault" />
+					<option name="newPlayerInstance" value="false" />
+					<option name="playerPath" value="FlashPlayerDebugger.exe" />
+				</LauncherParameters>
+			</option>
+			<option name="moduleName" value="" />
+			<option name="trusted" value="true" />
+			<method />
+		</configuration>
+		<configuration default="true" type="GradleRunConfiguration"
+			factoryName="Gradle">
+			<ExternalSystemSettings>
+				<option name="executionName" />
+				<option name="externalProjectPath" />
+				<option name="externalSystemIdString" value="GRADLE" />
+				<option name="scriptParameters" />
+				<option name="taskDescriptions">
+					<list />
+				</option>
+				<option name="taskNames">
+					<list />
+				</option>
+				<option name="vmOptions" />
+			</ExternalSystemSettings>
+			<method />
+		</configuration>
+		<configuration default="true" type="GrailsRunConfigurationType"
+			factoryName="Grails">
+			<setting name="vmparams" value="" />
+			<setting name="cmdLine" value="run-app" />
+			<setting name="passParentEnv" value="true" />
+			<setting name="launchBrowser" value="true" />
+			<setting name="launchBrowserUrl" value="" />
+			<setting name="depsClasspath" value="false" />
+			<method />
+		</configuration>
+		<configuration default="true" type="JUnit" factoryName="JUnit">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<module name="" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="PACKAGE_NAME" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="METHOD_NAME" />
+			<option name="TEST_OBJECT" value="class" />
+			<option name="VM_PARAMETERS" value="-ea" />
+			<option name="PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<option name="TEST_SEARCH_SCOPE">
+				<value defaultName="singleModule" />
+			</option>
+			<envs />
+			<patterns />
+			<method />
+		</configuration>
+		<configuration default="true" type="JarApplication"
+			factoryName="JAR Application">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="Java Scratch"
+			factoryName="Java Scratch">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<option name="SCRATCH_FILE_ID" value="0" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="ENABLE_SWING_INSPECTOR" value="false" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="JavaScriptTestRunnerJest"
+			factoryName="Jest">
+			<node-interpreter value="project" />
+			<working-dir value="" />
+			<envs />
+			<scope-kind value="ALL" />
+			<method />
+		</configuration>
+		<configuration default="true" type="JavaScriptTestRunnerProtractor"
+			factoryName="Protractor">
+			<config-file value="" />
+			<node-interpreter value="project" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="JavascriptDebugType"
+			factoryName="JavaScript Debug">
+			<method />
+		</configuration>
+		<configuration default="true" type="JetRunConfigurationType"
+			factoryName="Kotlin">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="VM_PARAMETERS" />
+			<option name="PROGRAM_PARAMETERS" />
+			<option name="WORKING_DIRECTORY" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<module name="ART" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true"
+			type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<option name="filePath" />
+			<option name="vmParameters" />
+			<option name="alternativeJrePath" />
+			<option name="programParameters" />
+			<option name="passParentEnvs" value="true" />
+			<option name="workingDirectory" />
+			<option name="isAlternativeJrePathEnabled" value="false" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="Remote" factoryName="Remote">
+			<option name="USE_SOCKET_TRANSPORT" value="true" />
+			<option name="SERVER_MODE" value="false" />
+			<option name="SHMEM_ADDRESS" value="javadebug" />
+			<option name="HOST" value="localhost" />
+			<option name="PORT" value="5005" />
+			<method />
+		</configuration>
+		<configuration default="true"
+			type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<module name="" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="TestNG" factoryName="TestNG">
+			<extension name="coverage" enabled="false" merge="false"
+				sample_coverage="true" runner="idea" />
+			<module name="" />
+			<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+			<option name="ALTERNATIVE_JRE_PATH" />
+			<option name="SUITE_NAME" />
+			<option name="PACKAGE_NAME" />
+			<option name="MAIN_CLASS_NAME" />
+			<option name="METHOD_NAME" />
+			<option name="GROUP_NAME" />
+			<option name="TEST_OBJECT" value="CLASS" />
+			<option name="VM_PARAMETERS" value="-ea" />
+			<option name="PARAMETERS" />
+			<option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+			<option name="OUTPUT_DIRECTORY" />
+			<option name="ANNOTATION_TYPE" />
+			<option name="ENV_VARIABLES" />
+			<option name="PASS_PARENT_ENVS" value="true" />
+			<option name="TEST_SEARCH_SCOPE">
+				<value defaultName="singleModule" />
+			</option>
+			<option name="USE_DEFAULT_REPORTERS" value="false" />
+			<option name="PROPERTIES_FILE" />
+			<envs />
+			<properties />
+			<listeners />
+			<method />
+		</configuration>
+		<configuration default="true" type="js.build_tools.gulp"
+			factoryName="Gulp.js">
+			<node-interpreter>project</node-interpreter>
+			<node-options />
+			<gulpfile />
+			<tasks />
+			<arguments />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="js.build_tools.npm"
+			factoryName="npm">
+			<command value="run" />
+			<scripts />
+			<node-interpreter value="project" />
+			<envs />
+			<method />
+		</configuration>
+		<configuration default="true" type="osgi.bnd.run"
+			factoryName="Run Launcher">
+			<method />
+		</configuration>
+		<configuration default="true" type="osgi.bnd.run"
+			factoryName="Test Launcher (JUnit)">
+			<method />
+		</configuration>
+		<list size="5">
+			<item index="0" class="java.lang.String" itemvalue="Application.ART_B3_ND" />
+			<item index="1" class="java.lang.String" itemvalue="Application.ART_B_ND" />
+			<item index="2" class="java.lang.String" itemvalue="Application.MyART_OD" />
+			<item index="3" class="java.lang.String" itemvalue="Application.ORB_FSCS_ND" />
+			<item index="4" class="java.lang.String" itemvalue="Application.ORB_RRT_ND" />
+		</list>
+		<recent_temporary>
+			<list size="5">
+				<item index="0" class="java.lang.String" itemvalue="Application.ORB_FSCS_ND" />
+				<item index="1" class="java.lang.String" itemvalue="Application.ORB_RRT_ND" />
+				<item index="2" class="java.lang.String" itemvalue="Application.MyART_OD" />
+				<item index="3" class="java.lang.String" itemvalue="Application.ART_B_ND" />
+				<item index="4" class="java.lang.String" itemvalue="Application.ART_B3_ND" />
+			</list>
+		</recent_temporary>
+	</component>
+	<component name="ShelveChangesManager" show_recycled="false">
+		<option name="remove_strategy" value="false" />
+	</component>
+	<component name="SvnConfiguration">
+		<configuration />
+	</component>
+	<component name="TaskManager">
+		<task active="true" id="Default" summary="Default task">
+			<changelist id="10c01916-f37b-4faf-855e-3c29c330392c"
+				name="Default" comment="" />
+			<created>1527342043182</created>
+			<option name="number" value="Default" />
+			<option name="presentableId" value="Default" />
+			<updated>1527342043182</updated>
+			<workItem from="1527342049276" duration="1255000" />
+			<workItem from="1527398801936" duration="949000" />
+			<workItem from="1527410703147" duration="12194000" />
+			<workItem from="1527468727176" duration="3298000" />
+			<workItem from="1527579330473" duration="611000" />
+			<workItem from="1527648771303" duration="125000" />
+			<workItem from="1527843893559" duration="599000" />
+			<workItem from="1528094312022" duration="1216000" />
+			<workItem from="1528182076371" duration="1587000" />
+			<workItem from="1528185338726" duration="8801000" />
+			<workItem from="1528284246541" duration="111000" />
+			<workItem from="1528288898878" duration="3051000" />
+			<workItem from="1528594605959" duration="19000" />
+			<workItem from="1528613724241" duration="6137000" />
+			<workItem from="1528939152404" duration="43000" />
+			<workItem from="1528941675557" duration="41000" />
+			<workItem from="1529125627454" duration="863000" />
+			<workItem from="1529126895272" duration="1744000" />
+			<workItem from="1529134798433" duration="49000" />
+			<workItem from="1529306392665" duration="581000" />
+			<workItem from="1529322104400" duration="623000" />
+			<workItem from="1529991758991" duration="1670000" />
+			<workItem from="1529996445262" duration="740000" />
+			<workItem from="1533345214382" duration="2774000" />
+			<workItem from="1533560461153" duration="3414000" />
+			<workItem from="1534246521236" duration="67000" />
+		</task>
+		<servers />
+	</component>
+	<component name="TimeTrackingManager">
+		<option name="totallyTimeSpent" value="52562000" />
+	</component>
+	<component name="ToolWindowManager">
+		<frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+		<editor active="true" />
+		<layout>
+			<window_info id="Palette" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="TODO" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Nl-Palette" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Palette&#9;" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Image Layers" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Capture Analysis" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Event Log" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7"
+				side_tool="true" content_ui="tabs" />
+			<window_info id="Maven Projects" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Version Control" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.32872504" sideWeight="0.5"
+				order="7" side_tool="false" content_ui="tabs" />
+			<window_info id="Run" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.2580645" sideWeight="0.5" order="2"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Properties" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Terminal" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.17357911" sideWeight="0.5"
+				order="7" side_tool="false" content_ui="tabs" />
+			<window_info id="Capture Tool" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Designer" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Project" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true"
+				show_stripe_button="true" weight="0.25189108" sideWeight="0.49553"
+				order="0" side_tool="false" content_ui="combo" />
+			<window_info id="Database" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Structure" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Ant Build" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="UI Designer" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Theme Preview" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Favorites" active="false" anchor="left"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.1651671" sideWeight="0.50447"
+				order="2" side_tool="true" content_ui="tabs" />
+			<window_info id="Debug" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.39974457" sideWeight="0.5"
+				order="3" side_tool="false" content_ui="tabs" />
+			<window_info id="Cvs" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Message" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Commander" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Hierarchy" active="false" anchor="right"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2"
+				side_tool="false" content_ui="combo" />
+			<window_info id="Messages" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.24577573" sideWeight="0.5"
+				order="7" side_tool="false" content_ui="tabs" />
+			<window_info id="Inspection" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5"
+				side_tool="false" content_ui="tabs" />
+			<window_info id="Find" active="false" anchor="bottom"
+				auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false"
+				show_stripe_button="true" weight="0.32872504" sideWeight="0.5"
+				order="1" side_tool="false" content_ui="tabs" />
+		</layout>
+	</component>
+	<component name="TypeScriptGeneratedFilesManager">
+		<option name="processedProjectFiles" value="true" />
+	</component>
+	<component name="Vcs.Log.Tabs.Properties">
+		<option name="TAB_STATES">
+			<map>
+				<entry key="MAIN">
+					<value>
+						<State>
+							<option name="BEK_SORT_TYPE" value="1" />
+							<option name="RECENTLY_FILTERED_USER_GROUPS">
+								<collection />
+							</option>
+							<option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+								<collection />
+							</option>
+							<option name="COLUMN_ORDER">
+								<list>
+									<option value="0" />
+									<option value="1" />
+									<option value="2" />
+									<option value="3" />
+								</list>
+							</option>
+						</State>
+					</value>
+				</entry>
+			</map>
+		</option>
+	</component>
+	<component name="VcsContentAnnotationSettings">
+		<option name="myLimit" value="2678400000" />
+	</component>
+	<component name="XDebuggerManager">
+		<breakpoint-manager />
+		<watches-manager />
+	</component>
+	<component name="antWorkspaceConfiguration">
+		<option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+		<option name="FILTER_TARGETS" value="false" />
+	</component>
+	<component name="editorHistoryManager">
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/FailurePattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="72">
+					<caret line="6" column="22" lean-forward="false"
+						selection-start-line="6" selection-start-column="22"
+						selection-end-line="6" selection-end-column="22" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/BlockPattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="486">
+					<caret line="27" column="13" lean-forward="true"
+						selection-start-line="27" selection-start-column="13"
+						selection-end-line="27" selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/StripPattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="1332">
+					<caret line="74" column="9" lean-forward="true"
+						selection-start-line="74" selection-start-column="9"
+						selection-end-line="74" selection-end-column="9" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/a_main/MainMethodTime.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="864">
+					<caret line="48" column="14" lean-forward="false"
+						selection-start-line="48" selection-start-column="14"
+						selection-end-line="48" selection-end-column="14" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/a_main/MainMethodEm.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="1044">
+					<caret line="86" column="0" lean-forward="true"
+						selection-start-line="86" selection-start-column="0"
+						selection-end-line="86" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/StripPatternIn2D.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="756">
+					<caret line="42" column="5" lean-forward="true"
+						selection-start-line="42" selection-start-column="5"
+						selection-end-line="42" selection-end-column="5" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/PointPattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="2592">
+					<caret line="144" column="0" lean-forward="true"
+						selection-start-line="144" selection-start-column="0"
+						selection-end-line="144" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/coverage/factory/CoverageFactoryFor3D.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="0">
+					<caret line="0" column="0" lean-forward="false"
+						selection-start-line="0" selection-start-column="0"
+						selection-end-line="0" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/coverage/factory/CoverageFactory.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="54">
+					<caret line="15" column="30" lean-forward="false"
+						selection-start-line="15" selection-start-column="30"
+						selection-end-line="15" selection-end-column="30" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/coverage/factory/CoverageFactoryFor3D.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="152">
+					<caret line="111" column="5" lean-forward="false"
+						selection-start-line="111" selection-start-column="5"
+						selection-end-line="111" selection-end-column="5" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/tested/bessj0.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="306">
+					<caret line="17" column="21" lean-forward="true"
+						selection-start-line="17" selection-start-column="21"
+						selection-end-line="17" selection-end-column="21" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/datastructure/ND/NPoint.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="294">
+					<caret line="88" column="28" lean-forward="false"
+						selection-start-line="88" selection-start-column="28"
+						selection-end-line="88" selection-end-column="28" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/test/simulations/art_dc/RRT_DC.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="-3706">
+					<caret line="54" column="69" lean-forward="false"
+						selection-start-line="54" selection-start-column="69"
+						selection-end-line="54" selection-end-column="69" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/FailurePattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="72">
+					<caret line="6" column="22" lean-forward="false"
+						selection-start-line="6" selection-start-column="22"
+						selection-end-line="6" selection-end-column="22" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/a_main/MainMethodEm.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="1044">
+					<caret line="86" column="0" lean-forward="false"
+						selection-start-line="86" selection-start-column="0"
+						selection-end-line="86" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/StripPatternIn2D.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="684">
+					<caret line="42" column="5" lean-forward="false"
+						selection-start-line="42" selection-start-column="5"
+						selection-end-line="42" selection-end-column="5" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/BlockPattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="432">
+					<caret line="27" column="13" lean-forward="false"
+						selection-start-line="27" selection-start-column="13"
+						selection-end-line="27" selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/StripPattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="1620">
+					<caret line="96" column="34" lean-forward="false"
+						selection-start-line="96" selection-start-column="16"
+						selection-end-line="96" selection-end-column="34" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/a_main/MainMethodTime.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="612">
+					<caret line="48" column="14" lean-forward="false"
+						selection-start-line="48" selection-start-column="14"
+						selection-end-line="48" selection-end-column="14" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_rp/ART_RP_revise_ND.java" />
+		<entry
+			file="file://$PROJECT_DIR$/src/datastructure/failurepattern/impl/PointPattern.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="1296">
+					<caret line="74" column="13" lean-forward="false"
+						selection-start-line="74" selection-start-column="13"
+						selection-end-line="74" selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/rrttp/hilbert/RRTtpND_H.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="144">
+					<caret line="17" column="13" lean-forward="false"
+						selection-start-line="17" selection-start-column="13"
+						selection-end-line="17" selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/test/simulations/rt/RT_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="756">
+					<caret line="49" column="41" lean-forward="false"
+						selection-start-line="49" selection-start-column="41"
+						selection-end-line="49" selection-end-column="41" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_tpp/ART_TPP.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="4752">
+					<caret line="274" column="58" lean-forward="false"
+						selection-start-line="274" selection-start-column="58"
+						selection-end-line="274" selection-end-column="58" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_tp/_ND/ART_TP_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="342">
+					<caret line="32" column="5" lean-forward="false"
+						selection-start-line="32" selection-start-column="5"
+						selection-end-line="32" selection-end-column="5" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/test/simulations/rrt/RRT_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="936">
+					<caret line="62" column="32" lean-forward="false"
+						selection-start-line="62" selection-start-column="18"
+						selection-end-line="62" selection-end-column="32" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_rp/ART_RP_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="1512">
+					<caret line="96" column="5" lean-forward="false"
+						selection-start-line="83" selection-start-column="4"
+						selection-end-line="96" selection-end-column="5" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_9partition/_4partition.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="2916">
+					<caret line="172" column="5" lean-forward="false"
+						selection-start-line="163" selection-start-column="4"
+						selection-end-line="172" selection-end-column="5" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/a_main/MainMethod.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="846">
+					<caret line="72" column="0" lean-forward="false"
+						selection-start-line="60" selection-start-column="18"
+						selection-end-line="72" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="jar://$MAVEN_REPOSITORY$/de/alsclo/voronoi-java/1.0/voronoi-java-1.0.jar!/de/alsclo/voronoi/graph/Point.class">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="72">
+					<caret line="7" column="13" lean-forward="false"
+						selection-start-line="7" selection-start-column="13"
+						selection-end-line="7" selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="jar://$MAVEN_REPOSITORY$/de/alsclo/voronoi-java/1.0/voronoi-java-1.0.jar!/de/alsclo/voronoi/Voronoi.class">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="108">
+					<caret line="28" column="13" lean-forward="false"
+						selection-start-line="28" selection-start-column="13"
+						selection-end-line="28" selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="jar://$MAVEN_REPOSITORY$/de/alsclo/voronoi-java/1.0/voronoi-java-1.0.jar!/de/alsclo/voronoi/graph/Graph.class">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="450">
+					<caret line="38" column="5" lean-forward="false"
+						selection-start-line="38" selection-start-column="5"
+						selection-end-line="38" selection-end-column="5" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_9partition/Edge.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="0">
+					<caret line="0" column="0" lean-forward="false"
+						selection-start-line="0" selection-start-column="0"
+						selection-end-line="0" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_9partition/Voronoi.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="5274">
+					<caret line="298" column="0" lean-forward="false"
+						selection-start-line="298" selection-start-column="0"
+						selection-end-line="298" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_9partition/CVT_FSCS.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="72">
+					<caret line="4" column="14" lean-forward="false"
+						selection-start-line="4" selection-start-column="14"
+						selection-end-line="4" selection-end-column="14" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_b/ART_B3_ND.java" />
+		<entry file="file://$PROJECT_DIR$/src/test/simulations/art_b/ART_B_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="324">
+					<caret line="28" column="56" lean-forward="false"
+						selection-start-line="28" selection-start-column="56"
+						selection-end-line="28" selection-end-column="56" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_b/ART_B2_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="810">
+					<caret line="56" column="35" lean-forward="false"
+						selection-start-line="56" selection-start-column="35"
+						selection-end-line="56" selection-end-column="35" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/rrt/imp/RRT_OD_UPDATE.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="450">
+					<caret line="28" column="13" lean-forward="false"
+						selection-start-line="28" selection-start-column="13"
+						selection-end-line="28" selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/rrt/imp/RRT2_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="612">
+					<caret line="41" column="0" lean-forward="false"
+						selection-start-line="41" selection-start-column="0"
+						selection-end-line="41" selection-end-column="0" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/myart/_ND/MyART_ND_H.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="216">
+					<caret line="16" column="23" lean-forward="false"
+						selection-start-line="16" selection-start-column="23"
+						selection-end-line="16" selection-end-column="23" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/myart/_1D/MyART_OD.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="270">
+					<caret line="18" column="41" lean-forward="false"
+						selection-start-line="18" selection-start-column="41"
+						selection-end-line="18" selection-end-column="41" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/pom.xml">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="468">
+					<caret line="26" column="22" lean-forward="false"
+						selection-start-line="26" selection-start-column="22"
+						selection-end-line="26" selection-end-column="22" />
+					<folding />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/tested/airy.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="306">
+					<caret line="17" column="18" lean-forward="false"
+						selection-start-line="17" selection-start-column="18"
+						selection-end-line="17" selection-end-column="18" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/tested/bessj.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="288">
+					<caret line="16" column="22" lean-forward="false"
+						selection-start-line="16" selection-start-column="22"
+						selection-end-line="16" selection-end-column="22" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/test/ART.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="162">
+					<caret line="13" column="30" lean-forward="false"
+						selection-start-line="9" selection-start-column="4"
+						selection-end-line="18" selection-end-column="61" />
+					<folding />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_orb/ComplexRegion.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="108">
+					<caret line="7" column="31" lean-forward="false"
+						selection-start-line="7" selection-start-column="18"
+						selection-end-line="7" selection-end-column="31" />
+					<folding />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/test/simulations/fscs/FSCS_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="882">
+					<caret line="54" column="30" lean-forward="false"
+						selection-start-line="36" selection-start-column="12"
+						selection-end-line="54" selection-end-column="30" />
+					<folding />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/util/RandomCreator.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="522">
+					<caret line="33" column="18" lean-forward="false"
+						selection-start-line="33" selection-start-column="18"
+						selection-end-line="33" selection-end-column="18" />
+					<folding />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_orb/ORB_RRT_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="234">
+					<caret line="22" column="39" lean-forward="false"
+						selection-start-line="22" selection-start-column="39"
+						selection-end-line="22" selection-end-column="39" />
+					<folding />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/test/simulations/art_orb/ORB_FSCS_ND.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="216">
+					<caret line="37" column="0" lean-forward="true"
+						selection-start-line="37" selection-start-column="0"
+						selection-end-line="37" selection-end-column="0" />
+					<folding />
+				</state>
+			</provider>
+		</entry>
+	</component>
+	<component name="masterDetails">
+		<states>
+			<state key="ArtifactsStructureConfigurable.UI">
+				<settings>
+					<artifact-editor />
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="FacetStructureConfigurable.UI">
+				<settings>
+					<last-edited>No facets are configured</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="GlobalLibrariesConfigurable.UI">
+				<settings>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="JdkListConfigurable.UI">
+				<settings>
+					<last-edited>1.8</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="ModuleStructureConfigurable.UI">
+				<settings>
+					<last-edited>ART</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+								<option value="0.6" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="ProjectLibrariesConfigurable.UI">
+				<settings>
+					<last-edited>3d</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+		</states>
+	</component>
+</project>
